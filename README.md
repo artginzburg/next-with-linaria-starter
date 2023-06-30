@@ -1,3 +1,11 @@
+An example showing how easy it is to use [linaria](https://github.com/callstack/linaria) with [Next.js](https://nextjs.org/), thanks to [next-with-linaria](https://github.com/dlehmhus/next-with-linaria).
+
+The content of the starter is the same, but the styles are actually rewritten to server-side-only CSS-in-JS.
+
+> With just [styled-components](https://styled-components.com), this would not be possible — the JS would run on both the server and the client.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
